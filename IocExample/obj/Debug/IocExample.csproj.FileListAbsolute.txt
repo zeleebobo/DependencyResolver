@@ -1,0 +1,9 @@
+/Users/zeleebobo/Projects/Task/IocExample/bin/Debug/IocExample.exe.config
+/Users/zeleebobo/Projects/Task/IocExample/bin/Debug/IocExample.exe
+/Users/zeleebobo/Projects/Task/IocExample/bin/Debug/IocExample.pdb
+/Users/zeleebobo/Projects/Task/IocExample/bin/Debug/Ninject.dll
+/Users/zeleebobo/Projects/Task/IocExample/bin/Debug/Ninject.xml
+/Users/zeleebobo/Projects/Task/IocExample/obj/Debug/IocExample.csprojResolveAssemblyReference.cache
+/Users/zeleebobo/Projects/Task/IocExample/obj/Debug/IocExample.csproj.CoreCompileInputs.cache
+/Users/zeleebobo/Projects/Task/IocExample/obj/Debug/IocExample.exe
+/Users/zeleebobo/Projects/Task/IocExample/obj/Debug/IocExample.pdb
